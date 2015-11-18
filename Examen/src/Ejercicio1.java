@@ -8,7 +8,7 @@ public class Ejercicio1 {
 
 		while (numero <= 300) {
 			System.out.print(" " + numero + " \t");
-			numero = numero + 3;
+			numero = numero + 2;
 			if (numero % 9 == 0) {
 				System.out.println(numero + " Divisible por 9");
 			}
